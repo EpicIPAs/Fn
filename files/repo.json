@@ -1,7 +1,7 @@
 {
    "name":"Epic Games",
    "identifier":"com.isacucho.epicgames",
-   "iconURL":"https://web.archive.org/web/20241207030549/https://github.com/isacucho/FnMacIPAs/blob/main/repo/icons/repo.png?raw=true",
+   "iconURL":"https://github.com/EpicIPAs/Fn/blob/main/files/icons/egs.png?raw=true",
    "apps":[
       {
          "name":"Fortnite Fullscreen",
