@@ -12,17 +12,17 @@
          "subtitle":"Updated to the latest version",
          "versions":[
             {
-               "version":"34.00.3",
-               "date":"2025-03-06T12:00:00Z",
-               "localizedDescription":"Minor update",
+               "version":"34.10",
+               "date":"2025-03-11T12:00:00Z",
+               "localizedDescription":"Major update",
                "size":501900000,
-               "downloadURL":"https://github.com/EpicIPAs/Fn/releases/download/v34.00.3/Fortnite-34.00.3.ipa"
+               "downloadURL":"https://fnmacassistant.s3.us-west-1.amazonaws.com/FnMacIPAs/Fortnite-34.10.ipa"
             }
          ],
          "size":251135109,
-         "version":"34.00.3",
-         "versionDate":"2025-03-06T12:00:00Z",
-         "downloadURL":"https://github.com/EpicIPAs/Fn/releases/download/v34.00.3/Fortnite_34.00.3.ipa",
+         "version":"34.10",
+         "versionDate":"2025-03-11T12:00:00Z",
+         "downloadURL":"https://fnmacassistant.s3.us-west-1.amazonaws.com/FnMacIPAs/Fortnite-34.10.ipa",
          "appPermissions":{ 
          }
       },
