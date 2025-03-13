@@ -35,17 +35,17 @@
          "subtitle":"Official Fall Guys iOS app",
          "versions":[
             {
-               "version":"11.6.0",
-               "date":"2025-02-20T00:00:00Z",
+               "version":"11.6.1",
+               "date":"2025-03-13T00:00:00Z",
                "localizedDescription":"Latest update",
                "size":2130000000,
-               "downloadURL":"https://github.com/EpicIPAs/FG/releases/download/v11.6.0/Fall_Guys-11.6.0.ipa"
+               "downloadURL":"https://fnmacassistant.s3.us-west-1.amazonaws.com/FGMacIPAs/Fall_Guys-11.6.1.ipa"
             }
          ],
          "size":2130000000,
-         "version":"11.6.0",
-         "versionDate":"2025-02-20T00:00:00Z",
-         "downloadURL":"https://github.com/EpicIPAs/FG/releases/download/v11.6.0/Fall_Guys-11.6.0.ipa",
+         "version":"11.6.1",
+         "versionDate":"2025-03-13T00:00:00Z",
+         "downloadURL":"https://fnmacassistant.s3.us-west-1.amazonaws.com/FGMacIPAs/Fall_Guys-11.6.1.ipa",
          "appPermissions":{
          }
       }
