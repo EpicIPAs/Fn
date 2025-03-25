@@ -12,17 +12,17 @@
          "subtitle":"Updated to the latest version",
          "versions":[
             {
-               "version":"34.10",
-               "date":"2025-03-11T12:00:00Z",
+               "version":"34.20",
+               "date":"2025-03-25T12:00:00Z",
                "localizedDescription":"Major update",
                "size":501900000,
-               "downloadURL":"https://fnmacassistant.s3.us-west-1.amazonaws.com/FnMacIPAs/Fortnite-34.10.ipa"
+               "downloadURL":"https://fnmacassistant.s3.us-west-1.amazonaws.com/FnMacIPAs/Fortnite-34.20.ipa"
             }
          ],
          "size":251135109,
-         "version":"34.10",
-         "versionDate":"2025-03-11T12:00:00Z",
-         "downloadURL":"https://fnmacassistant.s3.us-west-1.amazonaws.com/FnMacIPAs/Fortnite-34.10.ipa",
+         "version":"34.20",
+         "versionDate":"2025-03-25T12:00:00Z",
+         "downloadURL":"https://fnmacassistant.s3.us-west-1.amazonaws.com/FnMacIPAs/Fortnite-34.20.ipa",
          "appPermissions":{ 
          }
       },
