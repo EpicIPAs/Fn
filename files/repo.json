@@ -1,55 +1,75 @@
 {
-   "name":"Epic Games",
-   "identifier":"com.isacucho.epicgames",
-   "iconURL":"https://github.com/EpicIPAs/Fn/blob/main/files/icons/egs.png?raw=true",
-   "apps":[
-      {
-        "name":"Fortnite",
-        "bundleIdentifier":"com.epicgames.FortniteGame",
-        "developerName":"Epic Games",
-        "iconURL":"https://github.com/EpicIPAs/Fn/blob/main/files/icons/fn.png?raw=true",
-         "localizedDescription":"Play Fortnite your way.\n\nBe the last player standing in Battle Royale, Zero Build and Reload, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or  headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator comumunity and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!\n\nFortnite requires at least 4GB on RAM to open, and an Apple Developer account or certificate with the following entitlements:\nIncreased Memory Limit\nExtended Virtual Adressing.",
-         "subtitle":"Updated to the latest version",
-         "versions":[
-            {
-               "version":"35.00.2",
-               "date":"2025-05-09T00:00:00Z",
-               "localizedDescription":"Latest Version",
-               "size":501900000,
-               "downloadURL":"https://github.com/EpicIPAs/Fn/releases/download/v35.00.2/Fortnite-35.00.2.ipa"
-            }
-         ],
-         "size":251135109,
-         "version":"35.00.2",
-         "versionDate":"2025-05-09T00:00:00Z",
-         "downloadURL":"hhttps://github.com/EpicIPAs/Fn/releases/download/v35.00.2/Fortnite-35.00.2.ipa",
-         "appPermissions":{ 
-         }
+  "name": "Epic Games",
+  "subtitle": "Get the latest versions of Fortnite and Fall Guys here!",
+  "description": "This source contains the latest versions of Fortnite and Fall Guys. No watermark added!",
+  "iconURL": "https://github.com/EpicIPAs/Fn/blob/main/files/icons/egs.png?raw=true",
+  "website": "https://discord.gg/nfEBGJBfHD",
+  "patreonURL": "https://patreon.com/isaacucho",
+  "tintColor": "#4b4961",
+  "featuredApps": [
+    "com.epicgames.FortniteGame",
+    "uk.co.mediatonic.fallguys"
+  ],
+  "apps": [
+    {
+      "name": "Fortnite",
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "marketplaceID": "",
+      "developerName": "Epic Games",
+      "subtitle": "Updated to the latest version",
+      "localizedDescription": "Play Fortnite your way.\n\nBe the last player standing in Battle Royale, Zero Build and Reload, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or  headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator comumunity and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!\n\nFortnite requires at least 4GB on RAM to open, and an Apple Developer account or certificate with the following entitlements:\nIncreased Memory Limit\nExtended Virtual Adressing.",
+      "iconURL": "https://github.com/EpicIPAs/Fn/blob/main/files/icons/fn.png?raw=true",
+      "tintColor": "#6d00ff",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "35.00.2",
+          "date": "2025-05-09T00:00:00Z",
+          "localizedDescription": "Latest Version",
+          "downloadURL": "https://github.com/EpicIPAs/Fn/releases/download/v35.00.2/Fortnite-35.00.2.ipa",
+          "size": 501900000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.developer.kernel.increased-memory-limit",
+          "com.apple.developer.kernel.extended-virtual-addressing"
+        ],
+        "privacy": {}
       },
-      {
-         "name":"Fall Guys",
-         "bundleIdentifier":"uk.co.mediatonic.fallguys",
-         "developerName":"Mediatonic",
-         "iconURL":"https://github.com/EpicIPAs/Fn/blob/main/files/icons/FG.png?raw=true",
-         "localizedDescription":"Fall Guys is a free, cross-platform multiplayer battle royale game. Dive into escalating rounds of hilarious obstacle courses, lively survival arenas and more!",
-         "subtitle":"Official Fall Guys iOS app",
-         "versions":[
-            {
-               "version":"18.0.0",
-               "date":"2025-04-01T00:00:00Z",
-               "localizedDescription":"Latest update",
-               "size":2130000000,
-               "downloadURL":"https://github.com/EpicIPAs/FG/releases/download/v18.0.0/Fall_Guys-18.0.0.ipa"
-            }
-         ],
-         "size":2130000000,
-         "version":"18.0.0",
-         "versionDate":"2025-04-01T00:00:00Z",
-         "downloadURL":"https://github.com/EpicIPAs/FG/releases/download/v18.0.0/Fall_Guys-18.0.0.ipa",
-         "appPermissions":{
-         }
-      }
-   ],
-   "news":[ 
-   ]
+      "patreon": {}
+    },
+    {
+      "name": "Fall Guys",
+      "bundleIdentifier": "uk.co.mediatonic.fallguys",
+      "marketplaceID": "",
+      "developerName": "Mediatonic",
+      "subtitle": "Official Fall Guys iOS app",
+      "localizedDescription": "Fall Guys is a free, cross-platform multiplayer battle royale game. Dive into escalating rounds of hilarious obstacle courses, lively survival arenas and more!",
+      "iconURL": "https://github.com/EpicIPAs/Fn/blob/main/files/icons/FG.png?raw=true",
+      "tintColor": "#0097ff",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "18.0.0",
+          "date": "2025-04-01T00:00:00Z",
+          "localizedDescription": "Latest update",
+          "downloadURL": "https://github.com/EpicIPAs/FG/releases/download/v18.0.0/Fall_Guys-18.0.0.ipa",
+          "size": 2130000000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
 }
