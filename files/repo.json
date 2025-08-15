@@ -13,17 +13,17 @@
          "subtitle":"Updated to the latest version",
          "versions":[
             {
-               "version":"37.00.1",
-               "date":"2025-08-11T00:00:00Z",
+               "version":"37.00.2",
+               "date":"2025-08-15T00:00:00Z",
                "localizedDescription":"Latest Version",
                "size":501900000,
-               "downloadURL":"https://github.com/EpicIPAs/Fn/releases/download/v37.00.1/Fortnite-37.00.1.ipa"
+               "downloadURL":"https://github.com/EpicIPAs/Fn/releases/download/v37.00.2/Fortnite-37.00.2.ipa"
             }
          ],
          "size":251135109,
-         "version":"37.00.1",
-         "versionDate":"2025-08-11T00:00:00Z",
-         "downloadURL":"hhttps://github.com/EpicIPAs/Fn/releases/download/v37.00.1/Fortnite-37.00.1.ipa",
+         "version":"37.00.2",
+         "versionDate":"2025-08-15T00:00:00Z",
+         "downloadURL":"hhttps://github.com/EpicIPAs/Fn/releases/download/v37.00.2/Fortnite-37.00.2.ipa",
          "appPermissions":{ 
          }
       },
