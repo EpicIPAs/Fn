@@ -36,17 +36,17 @@
          "subtitle":"Official Fall Guys iOS app",
          "versions":[
             {
-               "version":"21.1.1",
-               "date":"2025-11-28T00:00:00Z",
+               "version":"21.1.2",
+               "date":"2025-12-18T00:00:00Z",
                "localizedDescription":"Latest update",
                "size":2130000000,
-               "downloadURL":"https://github.com/EpicIPAs/FG/releases/download/v21.1.1/Fall_Guys-21.1.1.ipa"
+               "downloadURL":"https://cvws.icloud-content.com/B/Af7kyDNYXWa4_y-1aKtbBjVVzpETAZplkeQLjNeoB5jBJEjoZyuvjzCG/Fall_Guys-21.1.2.ipa?o=Ah30frULieFzbol6wbyVDYAB8yU9lWVULlzgfVv94U3p&v=1&x=3&a=CAogKt6sOb97lo2BzCqyPPQGfWzwM53XlNxAIM31RPioT9YSbxCkg-GQszMYpJPc5LwzIgEAUgRVzpETWgSvjzCGaic7BTG5r6ovUD90daaVZY3rFRmxGRbDhjDTb5PLSRxe8WTU3zC18q9yJxOkntzqeC5n3WYdVu4DzaMYM1ftosw4jlmVgfGwpXR3gt2Rem0AaA&e=1768664009&fl=&r=EC8BA1F7-732D-4659-9665-59B13DF39E23-1&k=idxb6ZuLv1C-pQhYf0I49g&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=67&s=CiSmAYmxkJgfmJZ6vwluFW_cZxg"
             }
          ],
          "size":2130000000,
-         "version":"21.0.1",
-         "versionDate":"2025-11-28T00:00:00Z",
-         "downloadURL":"https://github.com/EpicIPAs/FG/releases/download/v21.1.1/Fall_Guys-21.1.1.ipa",
+         "version":"21.1.2",
+         "versionDate":"2025-12-18T00:00:00Z",
+         "downloadURL":"https://cvws.icloud-content.com/B/Af7kyDNYXWa4_y-1aKtbBjVVzpETAZplkeQLjNeoB5jBJEjoZyuvjzCG/Fall_Guys-21.1.2.ipa?o=Ah30frULieFzbol6wbyVDYAB8yU9lWVULlzgfVv94U3p&v=1&x=3&a=CAogKt6sOb97lo2BzCqyPPQGfWzwM53XlNxAIM31RPioT9YSbxCkg-GQszMYpJPc5LwzIgEAUgRVzpETWgSvjzCGaic7BTG5r6ovUD90daaVZY3rFRmxGRbDhjDTb5PLSRxe8WTU3zC18q9yJxOkntzqeC5n3WYdVu4DzaMYM1ftosw4jlmVgfGwpXR3gt2Rem0AaA&e=1768664009&fl=&r=EC8BA1F7-732D-4659-9665-59B13DF39E23-1&k=idxb6ZuLv1C-pQhYf0I49g&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=67&s=CiSmAYmxkJgfmJZ6vwluFW_cZxg",
          "appPermissions":{
          }
       }
