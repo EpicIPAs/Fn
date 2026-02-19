@@ -1,56 +1,52 @@
-
 {
-   "name":"Epic Games",
-   "identifier":"com.isacucho.epicgames",
-   "iconURL":"https://github.com/EpicIPAs/Fn/blob/main/files/icons/egs.png?raw=true",
-   "apps":[
-      {
-        "name":"Fortnite",
-        "bundleIdentifier":"com.epicgames.FortniteGame",
-        "developerName":"Epic Games",
-        "iconURL":"https://github.com/EpicIPAs/Fn/blob/main/files/icons/fn.png?raw=true",
-         "localizedDescription":"Play Fortnite your way.\n\nBe the last player standing in Battle Royale, Zero Build and Reload, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or  headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator comumunity and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!\n\nFortnite requires at least 4GB on RAM to open, and an Apple Developer account or certificate with the following entitlements:\nIncreased Memory Limit\nExtended Virtual Adressing.",
-         "subtitle":"Welcome to Chapter Seven",
-         "versions":[
-            {
-               "version":"39.40.1",
-               "date":"2026-02-09T00:00:00Z",
-               "localizedDescription":"Welcome to Chapter Seven",
-               "size":2800000000,
-               "downloadURL":"https://cvws.icloud-content.com/B/AasgIr3njGk9vUtFzI-Y1_0vom1bAWNtZNze6ARi2ilvBVoEei1nlRg0/Fortnite-39.40.1.ipa?o=AuB0tiKD54CSX4uXddH5IsN5idHuo0FJTFHVBY96nEWH&v=1&x=3&a=CAog0Nz8uCHMk2a-1oCogLdAmhNBKajgAMDYJnWBO-DgSOkSbxDo-LOgxDMY6Iiv9M0zIgEAUgQvom1bWgRnlRg0aidypOjgM21m-uPsH5ZhfJu0AVZcp3FpLP6sggE0Unb33Vwk3zF3tP5yJ2ENXaTS8L7_n-YcXFhEKR0ChDxEaIPkBAzvXSYkR7woAPAonLzmnQ&e=1773260227&fl=&r=408C2AFB-144E-4739-896B-7FA41A12AF59-1&k=O11SO3-eJnFeuSsFTQw8qg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=136&s=GIvWto3KemqJWstgHcdjrpQ5zgQ"
-            }
-         ],
-         "size":251135109,
-         "version":"39.40.1",
-         "versionDate":"2026-02-09T00:00:00Z",
-         "downloadURL":"https://cvws.icloud-content.com/B/AasgIr3njGk9vUtFzI-Y1_0vom1bAWNtZNze6ARi2ilvBVoEei1nlRg0/Fortnite-39.40.1.ipa?o=AuB0tiKD54CSX4uXddH5IsN5idHuo0FJTFHVBY96nEWH&v=1&x=3&a=CAog0Nz8uCHMk2a-1oCogLdAmhNBKajgAMDYJnWBO-DgSOkSbxDo-LOgxDMY6Iiv9M0zIgEAUgQvom1bWgRnlRg0aidypOjgM21m-uPsH5ZhfJu0AVZcp3FpLP6sggE0Unb33Vwk3zF3tP5yJ2ENXaTS8L7_n-YcXFhEKR0ChDxEaIPkBAzvXSYkR7woAPAonLzmnQ&e=1773260227&fl=&r=408C2AFB-144E-4739-896B-7FA41A12AF59-1&k=O11SO3-eJnFeuSsFTQw8qg&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=136&s=GIvWto3KemqJWstgHcdjrpQ5zgQ",
-         "appPermissions":{ 
-         }
-      },
-      {
-         "name":"Fall Guys",
-         "bundleIdentifier":"uk.co.mediatonic.fallguys",
-         "developerName":"Mediatonic",
-         "iconURL":"https://github.com/EpicIPAs/Fn/blob/main/files/icons/FG.png?raw=true",
-         "localizedDescription":"Fall Guys is a free, cross-platform multiplayer battle royale game. Dive into escalating rounds of hilarious obstacle courses, lively survival arenas and more!",
-         "subtitle":"Official Fall Guys iOS app",
-         "versions":[
-            {
-               "version":"21.1.2",
-               "date":"2025-12-18T00:00:00Z",
-               "localizedDescription":"Latest update",
-               "size":2130000000,
-               "downloadURL":"https://cvws.icloud-content.com/B/Af7kyDNYXWa4_y-1aKtbBjVVzpETAZplkeQLjNeoB5jBJEjoZyuvjzCG/Fall_Guys-21.1.2.ipa?o=AnlK3C307B2LCuZRq-ZLg6rNSCgyVKedyPUYxhrJOgaN&v=1&x=3&a=CAogqtd-YVmmHOe6hAor1gzMq_f_lokY6LQCrKLv1Fd2K_oSbxDkiqGLvzMY5Jqc38gzIgEAUgRVzpETWgSvjzCGaidUgG4IRyKy5Yy_ffWVZlcGkaRs8Njn1nC4e_vVSwAyT2Vpyp_XMjByJ2sMNhwpus37KlsWFatkTam6fxy16g_iKhRddaI93ty1ooF_MUET1Q&e=1771873701&fl=&r=39A3C614-26B2-4E4D-ABCA-91EE8FB6C6B9-1&k=idxb6ZuLv1C-pQhYf0I49g&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=67&s=mdJtDm9qF_0vk9HIbDSa9yqp7s8"
-            }
-         ],
-         "size":2130000000,
-         "version":"21.1.2",
-         "versionDate":"2025-12-18T00:00:00Z",
-         "downloadURL":"https://cvws.icloud-content.com/B/Af7kyDNYXWa4_y-1aKtbBjVVzpETAZplkeQLjNeoB5jBJEjoZyuvjzCG/Fall_Guys-21.1.2.ipa?o=AnlK3C307B2LCuZRq-ZLg6rNSCgyVKedyPUYxhrJOgaN&v=1&x=3&a=CAogqtd-YVmmHOe6hAor1gzMq_f_lokY6LQCrKLv1Fd2K_oSbxDkiqGLvzMY5Jqc38gzIgEAUgRVzpETWgSvjzCGaidUgG4IRyKy5Yy_ffWVZlcGkaRs8Njn1nC4e_vVSwAyT2Vpyp_XMjByJ2sMNhwpus37KlsWFatkTam6fxy16g_iKhRddaI93ty1ooF_MUET1Q&e=1771873701&fl=&r=39A3C614-26B2-4E4D-ABCA-91EE8FB6C6B9-1&k=idxb6ZuLv1C-pQhYf0I49g&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=67&s=mdJtDm9qF_0vk9HIbDSa9yqp7s8",
-         "appPermissions":{
-         }
-      }
-   ],
-   "news":[ 
-   ]
+  "name": "Epic Games",
+  "identifier": "com.isacucho.epicgames",
+  "iconURL": "https://github.com/EpicIPAs/Fn/blob/main/files/icons/egs.png?raw=true",
+  "apps": [
+    {
+      "name": "Fortnite",
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "developerName": "Epic Games",
+      "iconURL": "https://github.com/EpicIPAs/Fn/blob/main/files/icons/fn.png?raw=true",
+      "localizedDescription": "Play Fortnite your way.\n\nBe the last player standing in Battle Royale, Zero Build and Reload, explore and survive in LEGO Fortnite, blast to the finish with Rocket Racing or  headline a concert with Fortnite Festival. Play thousands of free creator made islands with friends including deathruns, tycoons, racing, zombie survival and more! Join the creator comumunity and build your own island with Unreal Editor for Fortnite (UEFN) or Fortnite Creative tools.\n\nEach Fortnite island has an individual age rating so you can find the one that's right for you and your friends. Find it all in Fortnite!\n\nFortnite requires at least 4GB on RAM to open, and an Apple Developer account or certificate with the following entitlements:\nIncreased Memory Limit\nExtended Virtual Adressing.",
+      "subtitle": "Welcome to Chapter Seven",
+      "versions": [
+        {
+          "version": "39.50",
+          "date": "2026-02-19T00:00:00Z",
+          "localizedDescription": "Welcome to Chapter Seven",
+          "size": 2800000000,
+          "downloadURL": "https://cvws.icloud-content.com/B/AfHahgwnGRe5ar0fwbW58gUquWOpAb_yNnBhPpoxGWpDERkAnqna2Vle/Fortnite-39.50.ipa?o=AsIakwzXVLvFqqajOSlx8XAJaaJue4_i8_4XZlVVGhJ4&v=1&x=3&a=CAogn1RWWjsti40decS3vVPrcNeRElMRZZTBVp1YlAHmjFMSbxC0k6OyxzMYtKOehtEzIgEAUgQquWOpWgTa2Vleaid4h8Th59zRoScskdmR5R_7Xp1ySj9SMKZlW4cPpCR9ri9GA0zjIfByJ9hjNtsS4drw5WT9nq8x-CKRh1oD6p9OQd8Y4gMRW6XDhYzd9ohkXg&e=1774103007&fl=&r=0357A549-7053-4639-9A14-59267D94EA59-1&k=8J5YRTIjIuLx0K_sr7UOSA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=136&s=5jgSs3pFrYLPddNaFgPEyOuVPbg"
+        }
+      ],
+      "size": 251135109,
+      "version": "39.50",
+      "versionDate": "2026-02-19T00:00:00Z",
+      "downloadURL": "https://cvws.icloud-content.com/B/AfHahgwnGRe5ar0fwbW58gUquWOpAb_yNnBhPpoxGWpDERkAnqna2Vle/Fortnite-39.50.ipa?o=AsIakwzXVLvFqqajOSlx8XAJaaJue4_i8_4XZlVVGhJ4&v=1&x=3&a=CAogn1RWWjsti40decS3vVPrcNeRElMRZZTBVp1YlAHmjFMSbxC0k6OyxzMYtKOehtEzIgEAUgQquWOpWgTa2Vleaid4h8Th59zRoScskdmR5R_7Xp1ySj9SMKZlW4cPpCR9ri9GA0zjIfByJ9hjNtsS4drw5WT9nq8x-CKRh1oD6p9OQd8Y4gMRW6XDhYzd9ohkXg&e=1774103007&fl=&r=0357A549-7053-4639-9A14-59267D94EA59-1&k=8J5YRTIjIuLx0K_sr7UOSA&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=136&s=5jgSs3pFrYLPddNaFgPEyOuVPbg",
+      "appPermissions": {}
+    },
+    {
+      "name": "Fall Guys",
+      "bundleIdentifier": "uk.co.mediatonic.fallguys",
+      "developerName": "Mediatonic",
+      "iconURL": "https://github.com/EpicIPAs/Fn/blob/main/files/icons/FG.png?raw=true",
+      "localizedDescription": "Fall Guys is a free, cross-platform multiplayer battle royale game. Dive into escalating rounds of hilarious obstacle courses, lively survival arenas and more!",
+      "subtitle": "Official Fall Guys iOS app",
+      "versions": [
+        {
+          "version": "21.1.2",
+          "date": "2025-12-18T00:00:00Z",
+          "localizedDescription": "Latest update",
+          "size": 2130000000,
+          "downloadURL": "https://cvws.icloud-content.com/B/Af7kyDNYXWa4_y-1aKtbBjVVzpETAZplkeQLjNeoB5jBJEjoZyuvjzCG/Fall_Guys-21.1.2.ipa?o=AnlK3C307B2LCuZRq-ZLg6rNSCgyVKedyPUYxhrJOgaN&v=1&x=3&a=CAogqtd-YVmmHOe6hAor1gzMq_f_lokY6LQCrKLv1Fd2K_oSbxDkiqGLvzMY5Jqc38gzIgEAUgRVzpETWgSvjzCGaidUgG4IRyKy5Yy_ffWVZlcGkaRs8Njn1nC4e_vVSwAyT2Vpyp_XMjByJ2sMNhwpus37KlsWFatkTam6fxy16g_iKhRddaI93ty1ooF_MUET1Q&e=1771873701&fl=&r=39A3C614-26B2-4E4D-ABCA-91EE8FB6C6B9-1&k=idxb6ZuLv1C-pQhYf0I49g&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=67&s=mdJtDm9qF_0vk9HIbDSa9yqp7s8"
+        }
+      ],
+      "size": 2130000000,
+      "version": "21.1.2",
+      "versionDate": "2025-12-18T00:00:00Z",
+      "downloadURL": "https://cvws.icloud-content.com/B/Af7kyDNYXWa4_y-1aKtbBjVVzpETAZplkeQLjNeoB5jBJEjoZyuvjzCG/Fall_Guys-21.1.2.ipa?o=AnlK3C307B2LCuZRq-ZLg6rNSCgyVKedyPUYxhrJOgaN&v=1&x=3&a=CAogqtd-YVmmHOe6hAor1gzMq_f_lokY6LQCrKLv1Fd2K_oSbxDkiqGLvzMY5Jqc38gzIgEAUgRVzpETWgSvjzCGaidUgG4IRyKy5Yy_ffWVZlcGkaRs8Njn1nC4e_vVSwAyT2Vpyp_XMjByJ2sMNhwpus37KlsWFatkTam6fxy16g_iKhRddaI93ty1ooF_MUET1Q&e=1771873701&fl=&r=39A3C614-26B2-4E4D-ABCA-91EE8FB6C6B9-1&k=idxb6ZuLv1C-pQhYf0I49g&ckc=com.apple.clouddocs&ckz=com.apple.CloudDocs&p=67&s=mdJtDm9qF_0vk9HIbDSa9yqp7s8",
+      "appPermissions": {}
+    }
+  ],
+  "news": []
 }
